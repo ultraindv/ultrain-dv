@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=000000&background=90EE90&center=true&vCenter=true&width=435&lines=UltrainDV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&duration=4000&pause=1000&color=000000&background=90EE90&center=true&vCenter=true&multiline=true&width=200&height=30&lines=UltrainDV;The+Hunt+Continues;Try+RNG-ish)](https://git.io/typing-svg)
+
+<!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=000000&background=90EE90&center=true&vCenter=true&width=435&lines=UltrainDV)](https://git.io/typing-svg) --->
 
 # About me
 - 👋 Hi, I’m [@ultraindv](https://github.io/ultraindv)
