@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=000000&background=90EE90&center=true&vCenter=true&width=435&lines=UltrainDV)](https://git.io/typing-svg)
+
 # About me
 - 👋 Hi, I’m [@ultraindv](https://github.io/ultraindv)
 <!--- - 🏛 the official Founder of The NossTos Project and Co Owner of ECAS Studios --->
